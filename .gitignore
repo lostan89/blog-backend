@@ -150,3 +150,5 @@ cython_debug/
 pass_adm
 
 .replit
+.gitkeep
+media/
